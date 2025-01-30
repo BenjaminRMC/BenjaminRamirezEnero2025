@@ -1,0 +1,14 @@
+# Ignorar la carpeta target generada por Maven
+target/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+*.iml
+
+# Ignorar archivos de compilación
+*.class
+*.log
+
+# Ignorar archivos de sistema
+.DS_Store
