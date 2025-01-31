@@ -1,10 +1,18 @@
 # Ignorar la carpeta target generada por Maven
 target/
 
-# Ignorar archivos de configuración de IDE
-.idea/
-.vscode/
-*.iml
+# Ignorar archivos de Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+*.tmp
+*.bak
+*.swp
+*.patch
+*.sublime-workspace
+*.sublime-project
 
 # Ignorar archivos de compilación
 *.class
