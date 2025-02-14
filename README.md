@@ -1,3 +1,3 @@
 # BenjaminRamirezEnero2025
 
-Este es un proyecto de ejemplo creado con Maven, para Ing Software 2
+Aquí iré colocando los diagramas UML de los distintos programas elaborados en clase.
